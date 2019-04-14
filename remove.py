@@ -20,4 +20,3 @@ result_norm = cv2.merge(result_norm_planes)
 
 cv2.imwrite('shadows_out.png', result)
 cv2.imwrite('shadows_out_norm.png', result_norm)
-n
